@@ -79,7 +79,7 @@ This module is neither affiliated with nor endorsed by the official Grindr app. 
 ## Credits
 As an open source project, you're free to inspire yourself from this code. However, please **DON'T copy it and release it as your own (kanging)**. Give the proper credit and reference to the original project (https://github.com/ElJaviLuki/GrindrPlus) and its contributors.
 
-Main contributor: [@ElJaviLuki](https://github.com/ElJaviLuki)
+Main contributor: [@ASMODEUSXXXX85](https://github.com/ElJaviLuki)
 
 Additional credits to:
 - [@veeti](https://github.com/veeti) for [DisableFlagSecure](https://github.com/veeti/DisableFlagSecure)
