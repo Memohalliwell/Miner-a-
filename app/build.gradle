@@ -8,7 +8,7 @@ ext {
             compileSdk: 33,
             minSdk    : 21,
             targetSdk : 33,
-            okhttp    : '4.9.0',
+            okhttp    : '4.9.2',
             coreKtx   : '1.8.0',
             constraintLayout: '2.2.0-alpha07',
             kotlinReflect: '1.6.21',
